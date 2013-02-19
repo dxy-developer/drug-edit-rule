@@ -29,7 +29,7 @@
 
 
 
-##练手的测试题
+## 练手的测试题
 
 ### nested_list
 
@@ -43,10 +43,10 @@ order list, 即有序列表
 
 unorder list, 无需列表
 
-## p
+### p
 
 paragraph, 段落
 
-## strong
+### strong
 
 strong, 加粗 
