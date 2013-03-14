@@ -58,7 +58,7 @@
 
 **Mac 用户**
 
-安装Markdow编辑工具[Mou](http://mouapp.com)
+安装Markdown编辑工具[Mou](http://mouapp.com)
 
 
 ## 学习丁香园编辑规范
@@ -78,7 +78,7 @@
 ## 解答4个面试题, 发送给我们
 
 1. 我们公司使用google的在线办公系统, 请您务必注册一个gmail邮箱
-2. 将4道面试题发送给我们 xiaoronglv#dxyer.com 
+2. 将4道面试题发送给我 xiaoronglv#dxyer.com (用@替换#)
 3. 邮件采用如下格式
 
 	> **邮件标题:** 用药助手实习编辑面试题 - 姓名 
