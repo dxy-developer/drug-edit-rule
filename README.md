@@ -52,13 +52,13 @@
 
 ## 安装必备软件
 
-** windows用户 **
+**windows用户**
 
 1. 首先安装[.net framework](http://sdrv.ms/YsVIwS) 
 	
 2. 然后安装Markdown编辑工具 [MarkPad](http://sdrv.ms/Z0Pap6)
 
-** Mac 用户 **
+**Mac 用户**
 
 安装Markdow编辑工具[Mou](http://mouapp.com)
 
