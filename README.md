@@ -64,7 +64,7 @@
 
 ## 学习丁香园编辑规范
 
-1. [下载编辑规范的压缩文件](http://github.com/xiaoronglv/drug_edit_rule/archive/master.zip) 
+1. 下载[药品编辑规范](http://github.com/xiaoronglv/drug_edit_rule/archive/master.zip) 
 
 2. 使用Markdown编辑软件打开以下文件, 阅读优秀的范例
 	* 如何分段?  eg_paragraph.md
