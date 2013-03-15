@@ -67,7 +67,6 @@
 1. [下载编辑规范的压缩文件](http://github.com/xiaoronglv/drug_edit_rule/archive/master.zip) 
 
 2. 使用Markdown编辑软件打开以下文件, 阅读优秀的范例
-
 	* 如何分段?  eg_paragraph.md
 	* 如何编码? eg_order_list.md
 	* 如何处理嵌套的编码? eg_nested_order_list.md
