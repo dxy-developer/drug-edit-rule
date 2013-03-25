@@ -66,9 +66,9 @@
 
 2. 本品为杀菌性抗生素，在临床上能杀灭多种革兰氏阳性和革兰氏阴性细菌，特别是对产生β－内酰胺酶的耐药菌有特殊的疗效，这些细菌包括：
 
-	<TABLE>
+	<TABLE borderColor=#111111 height=99 width=541 border=1>
 	<TBODY>
-	<TR>
+	<TR align=middle>
 	<TD width=525 colSpan=5 height=36>革兰氏阳性菌</TD></TR>
 	<TR>
 	<TD align=middle width=64 height=55 rowSpan=2>需氧菌：</TD>
