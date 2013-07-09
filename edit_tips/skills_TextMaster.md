@@ -1,5 +1,14 @@
 # 软件技巧：文本巨匠
 
+## 安装
+
+1. [下载地址](https://skydrive.live.com/redir?resid=51A78DB6D0C754DF!1113&authkey=!AAA9q9yaBv8USSo)
+
+2. 点击「注册」，破解软件（破解可耻）
+
+3. 双击「文本巨匠」，it works！ 
+
+
 
 ## 批量转化
 
