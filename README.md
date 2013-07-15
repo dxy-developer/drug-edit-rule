@@ -111,7 +111,7 @@ B支6  -> 滨安路江虹路口
 
 
 4. 通过考核后, 就可来丁香园上班了
-5. 阅读[入职指南](https://gist.github.com/xiaoronglv/e6ce8b2e1da60a748c60)
+
 
 
 ## 更多资料
