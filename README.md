@@ -91,8 +91,8 @@ B支6  -> 滨安路江虹路口
 		
 ## 解答4个面试题, 发送给我们
 
-1. 我们公司使用google的在线办公系统, 请您务必注册一个gmail邮箱
-2. 将4道面试题发送给张沁梦 zhangqm#dxyer.com, 并抄送给吕小荣 xiaoronglv#dxyer.com (用@替换#)
+1. 我们公司使用google的在线办公系统, 请您务必注册一个[Gmail邮箱](https://mail.google.com)，我们不接受QQ邮箱投递的简历
+2. 将4道面试题发送给李荣俊 lirj#dxyer.com, 并抄送给张沁梦 zhangqm#dxyer.com (用@替换#)
 3. 邮件采用如下格式
 
 	> **邮件标题:** 用药助手实习编辑面试题 - 姓名 
